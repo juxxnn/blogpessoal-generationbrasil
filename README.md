@@ -7,7 +7,7 @@
 
 
 ## Sobre o projeto
-Neste repositório, você encontrará a criação de um blog pessoal, com o tema Cantinho das Mulheres em T.I, que foi desenvolvido no bootcamp da [Generation Brasil](https://www.generationbrasil.org/). 
+Neste repositório você encontrará a criação de um blog pessoal, com o tema Cantinho das Mulheres em T.I, que foi desenvolvido no bootcamp da [Generation Brasil](https://www.generationbrasil.org/). 
 
 O objetivo do projeto foi criar um blog utilizando as habilidades aprendidas no bootcamp, na formação de desenvolvedora full stack. 
 
