@@ -27,7 +27,7 @@ Na tela de [Cadastro] podemos escolher o tipo de Usuário, a diferença para os 
 
 <img src="https://imgur.com/MKtsnaJ.png"> 
 
-Na tela de [Início] visualizar o conteúdo do blog. No topo, podemos modificar nossos dados de usuário acessando o ícone de lápis que será redirecionado para a tela [Úsuário] e também sair do blog e voltar para a tela de [Entrar]
+Na tela de [Início] podemos visualizar o conteúdo do blog. No topo, podemos modificar nossos dados de usuário acessando o ícone de lápis que será redirecionado para a tela [Úsuário] e também sair do blog e voltar para a tela de [Entrar]
 
 <img src="https://imgur.com/qr4m3wv.png"> 
 
